@@ -47,6 +47,8 @@ MAKE
       fi
     done
   }
+  ## cleanup
+  rm -f "${ctx}"
   mread
   fi
   return 0
