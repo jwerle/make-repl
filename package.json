@@ -1,0 +1,9 @@
+{
+  "name": "make-repl",
+  "version": "0.0.1",
+  "description": "Simple MAKE repl",
+  "global": "true",
+  "install": "make install",
+  "scripts": [ "make-repl.sh" ]
+}
+
